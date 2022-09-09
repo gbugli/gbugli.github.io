@@ -1,5 +1,5 @@
 # Giacomo Bugli Portfolio Website
 
-### Website URL: [gbugli.com](gbugli.com)
+### Website URL:
 
 Website realized taking inspiration from [Bedimcode](https://github.com/bedimcode/portfolio-responsive-complete.git)
