@@ -848,6 +848,10 @@ img {
   margin-bottom: var(--mb-0-75);
 }
 
+.paper__skill-color {
+  color: var(--first-color-second);
+}
+
 .paper__button:hover .button__icon{
   transform: translateX(.25rem);
 }
